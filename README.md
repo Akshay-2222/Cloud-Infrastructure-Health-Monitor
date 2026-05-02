@@ -1,4 +1,4 @@
-# DevOps System Health Monitor 🖥️
+# Cloud-Infrastructure-Health-Monitor 🖥️
 
 A live system health monitoring API and dashboard built with Python, Docker, and deployed on AWS EC2 with automated CI/CD using GitHub Actions.
 
